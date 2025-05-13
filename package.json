@@ -1,6 +1,7 @@
 {
   "name": "vedantu-clipper",
   "version": "1.0.0",
+  "description": "A video clipping service using yt-dlp and ffmpeg",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -8,5 +9,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "body-parser": "^1.20.2"
-  }
+  },
+  "author": "Nitin Verma",
+  "license": "MIT"
 }
